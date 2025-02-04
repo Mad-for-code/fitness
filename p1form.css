@@ -1,0 +1,158 @@
+body{
+	height: 100%;
+	width: 100%;
+	background-color: black;
+
+}
+label{
+	color: white;
+	font-weight: bold;margin-right: 10px;
+
+}
+input{
+	font-family: cursive;
+	letter-spacing: 2px;
+	
+	
+}
+#a{
+	display: inline;
+	margin-right: 80px;
+	margin-left: 30px;
+}
+#a label{
+	font-family: cursive;
+	font-weight: bolder;
+	text-transform: uppercase;
+}
+#b{
+	display: inline;
+	margin-right: -186px;
+	
+}
+#b label{
+	font-family: cursive;
+	font-weight: bolder;
+	text-transform: uppercase;
+}
+
+#c{
+	display: block;
+	margin-top: 49px;
+	margin-left: 79px;
+}
+
+#c input{
+	width: 400px;
+}
+#c label{
+	font-family: cursive;
+	font-weight: bolder;
+	text-transform: uppercase;
+}
+
+#D P{
+	color: white;
+	font-family: cursive;
+	font-weight: bolder;
+	display: inline;
+	margin-left: 20px;
+	margin-right: 30px;
+
+}
+#D{
+	margin-top: 40PX;
+}
+#aa{
+	color: white;
+	font-family: cursive;
+	font-weight: bolder;
+	margin-right: 20px;
+}
+#e{
+	margin-top: 30px;
+	margin-left: 20px;
+	display: inline-block;
+}
+#e p{
+	color: white;
+	font-family: cursive;
+	font-weight: bolder;
+	display: inline;
+	margin-left: 20px;
+	margin-right: 30px;
+
+}
+.option{
+	font-family: cursive;
+	}
+#f{
+	display: inline;
+}
+#f p{
+	color: white;
+	font-family: cursive;
+	font-weight: bolder;
+	display: inline;
+	margin-left: 20px;
+	margin-right: 30px;
+}
+.G{
+	margin-top: 35px;
+	margin-bottom: 25px;
+	margin-left: 20px;
+}
+.G label{
+	font-family: cursive;
+}
+.G input{
+	width: 250px;
+}
+#h{
+	color: white;
+	font-family: cursive;
+	font-weight: bold;
+	display: inline-block;
+	text-transform: uppercase;
+
+}
+textarea{
+	display: inline;
+	margin-left: 38px;
+	font-family: cursive;
+}
+#h p{
+	margin-left: 20px;
+}
+#i{
+	margin-top: 20px;
+	margin-left: 900px;
+	vertical-align: baseline;
+}
+#q{
+	font-family: cursive;
+	font-weight: bolder;
+	color: white;
+	border-bottom: 4px solid white ;
+	display: inline;
+	margin-bottom: 10px;
+
+}
+#whole{
+	margin-top: 35px;
+}
+#img{
+	float: left;
+	margin-top: 168px;
+}
+#big_whole{
+	float: left;
+}
+#big_whole{
+	width:55%
+}
+#big_whole img{
+	height: 200px;
+	width: 200px;
+	margin-top: -10px;
+}

@@ -1,0 +1,51 @@
+body{
+	background-color: black;
+}
+#h{
+	font-weight: bolder;
+	height: 100px;
+	width: 900px;
+	font-family: cursive;
+	font-size: 20px;
+	text-transform: uppercase;
+
+	display: inline; 
+	margin:12px;
+	background-color:white;
+	display: inline-block;
+	margin-left: 31px;
+}
+#h h1{
+	border-bottom: 7px solid #222 ;
+	display: inline; 
+	padding-bottom: 10px;
+	margin-bottom: 1px;
+}
+table{
+	width: 75%;
+	padding:100px;
+	color: black;
+	background-color: cyan;
+	border-color: violet;
+	border-width: 30px;
+}
+table th{
+	padding:40px;
+	color: black;
+	font-family: monospace;
+	letter-spacing: 2px;
+	font-size: 35px;
+	text-transform: uppercase;
+	font-weight: bolder;
+
+}
+
+
+table td{
+	padding: 20px;
+	font-family: cursive;
+	font-weight: bold;
+	text-transform: uppercase;
+
+
+}
